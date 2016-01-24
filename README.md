@@ -15,5 +15,5 @@ class ContentPluginController extends PluginController
 {
 ```
 
-For rendering a typoscript path at path plugins.<PackageKey>.<ControllerName>.<ActionName> is used.
+For rendering a typoscript path at path `plugins.<PackageKey>.<ControllerName>.<ActionName>` is used.  
 In the package key the dot is removed so for the above example the path is: `plugins.FutjikatoDevSite.ContentPlugin.index`
