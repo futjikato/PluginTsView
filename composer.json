@@ -1,0 +1,19 @@
+{
+    "name": "futjikato/plugintsview",
+    "description": "Very minimal package to provide an abstract controller for plugins to render with TS viewer.",
+    "type": "neos-package",
+    "license": "MIT",
+    "require": {
+        "typo3/flow": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Futjikato\\PluginTsView": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Futjikato.PluginTsView"
+        }
+    }
+}
