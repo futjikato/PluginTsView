@@ -12,6 +12,7 @@
         }
     },
     "extra": {
+        "marketplace-account": "m.spindelhirn@cashiers-check.de",
         "neos": {
             "package-key": "Futjikato.PluginTsView"
         }
